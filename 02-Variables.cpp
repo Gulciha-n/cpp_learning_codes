@@ -16,5 +16,3 @@ int main(){
     cout << "Did the student take the exam? :" << take_exam << endl;
 } 
 
-
-
