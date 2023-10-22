@@ -7,3 +7,4 @@ int main(){      //int main : Programın başlangıcı , komutlar burada yer al�
     cout << endl;
     return 0;  // Program başarıyla tamamlandığını belirtir
 }
+
